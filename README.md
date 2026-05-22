@@ -11,7 +11,7 @@
 ## 我在做的事
 
 Skill Design · 我正在把 YOLO 从视频采集、自动化标注、训练、预测、实时展示作为一种 skill 技能包，下次可以通过 AI 自动化，一键生成。
-<img width="3547" height="1182" alt="生成yolo skill图片" src="https://github.com/user-attachments/assets/abdce263-c8f6-47d1-80b5-347b1b857994" />
+<img width="3547" height="1182" alt="生成yolo skill图片" src="https://github.com/user-attachments/assets/0f949876-e15e-4ae6-aa33-139fbbb8406f" />
 
 ---
 
