@@ -27,10 +27,11 @@ Skill Design · 我正在把 YOLO 从视频采集、自动化标注、训练、�
 没做任何推广。好东西放出去，自己会跑。
 ---
 
-## 找到我
+## 关于作者
 
-主要阵地 · 公众号「查哥聊AI」
-
-社交平台 · B站 查老师并不渣 · 小红书 查老师并不渣
-
-邮箱合作 · lv_birds@163.com
+| | |
+|:---|:---|
+| 🌐 官网 | [www.lscript.cn](http://www.lscript.cn)|
+| 📺 B站 | [查老师并不渣](https://space.bilibili.com/642180359?spm_id_from=333.337.0.0) |
+| 📕 小红书 | [查老师并不渣](https://www.xiaohongshu.com/user/profile/67698a55000000001802adbc) |
+| 💬 公众号 | 微信搜「查哥聊AI」 |
