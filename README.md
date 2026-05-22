@@ -1,16 +1,30 @@
-## Hi there 👋
+# 查老师并不渣
 
-<!--
-**longjingcha/longjingcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个不会写代码的程序员（AI让我自废武功）。
 
-Here are some ideas to get you started:
+但用 AI 做出了第一款 YOLO Skill，写了 1 本技术书，开源的 skill 框架。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+所有产品，全部 AI 写的。我只负责想清楚要做什么。
+
+---
+
+## 我在做的事
+
+Skill Design · 我正在把 YOLO 从视频采集、自动化标注、训练、预测、实时展示作为一种 skill 技能包，下次可以通过 AI 自动化，一键生成。
+<img width="3547" height="1182" alt="生成yolo skill图片" src="https://github.com/user-attachments/assets/abdce263-c8f6-47d1-80b5-347b1b857994" />
+
+---
+
+
+---
+
+## 我相信的几件事
+
+**AI 生成内容不稀缺，稀缺的是判断力。**  
+知道该做什么、不该做什么，这件事暂时还得靠人。所以接下来想解决的就是这个——把厉害的人怎么做判断这件事，变成可复用的东西。
+
+**实践是唯一的检验标准。**  
+我不写「AI 可能会怎样」的文章，只写「我用 AI 做了什么」的记录。每一篇教程、每一本案例，都是真实项目的副产品。
+
+**做出来比说出来有用。**  
+没做任何推广。好东西放出去，自己会跑。
